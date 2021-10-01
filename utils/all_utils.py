@@ -12,8 +12,8 @@ def prepare_data(df):
     """it is used to separate the dependent variables and independent features
     Args:
         df (pd.DataFrame): its the pandas DataFrame to
-    Returns:
-        tuple: it returns the tuples of dependent variables and independent variables
+    Returns:    
+        tuple: it returns the tuple s of dependent variables and independent variables
     """
     logging.info("Preparing the data by segregating the independent and dependent variables")
     x = df.drop("y", axis=1)

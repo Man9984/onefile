@@ -43,3 +43,21 @@ class Perceptron:
     total_loss = np.sum(self.error)
     logging.info(f"total loss: {total_loss}")
     return total_loss
+
+  def add(self,a,b):
+    """
+    Add two number
+    """
+    sum =a+b
+    return sum
+
+
+
+
+
+
+
+
+
+
+
