@@ -8,5 +8,24 @@ here we install are requirements materials which is the shown here
 3. matplotlib
 4. joblib
 
+################ Git Hub Information ##########
+git bash:
+cp Research\ notebok/demo.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
